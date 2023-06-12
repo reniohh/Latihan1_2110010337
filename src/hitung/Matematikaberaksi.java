@@ -1,7 +1,7 @@
 
 package hitung;
 
-public class MatematikaBeraksi {
+public class Matematikaberaksi {
     public static void main(String[] args) {
     //membuat objek
     Matematika reni = new Matematika (3,7);
@@ -11,4 +11,4 @@ public class MatematikaBeraksi {
     System.out.println("Hasil perkalian   : "+reni.setPerkalian());
     System.out.println("Hasil pembagian   : "+reni.setPembagian());
     }
-    }
+} 
